@@ -1,0 +1,53 @@
+Symbols
+
++
+-
+*
+**
+/
+//
+%
+
+Identifiers
+Identifiers are names of Variables
+
+many parts of a program, including variables need to be named.
+These names are commonly called identifiers.
+
+Rules for identifiers in python
+
+1. Must not start with a digit and must only use letters (uppercase and/or lowercase)
+2. Names must not contain a space and should use under score to divide words.
+3.Specific coding terms must not be used for anything other than their intended purpose.
+
+upperLimit
+upper_limit
+SCORE
+Chapter8
+
+Data Types
+
+Data values in a python program can only be of a certain limited range of types. The data types we will be uing are:
+
+int-integer(number with no fractional part) e.g. 3, 100000000, 25
+
+float - a floating point number e.g. 3.065, 10.0, 25.5
+
+str - string (a series of characters (letters, digits, punctuation, spaces) which might be a word or a sentence). A string id defined within a pair of quotes e.g. "this is a string" or 'this is also a string'.
+
+bool - Boolean (has only two possible values, True or False).
+
+Variables and Consants
+
+At there most basic programs operate on data. Consequently programs need to do two things: display/store data, and operate on it.
+
+The general term for the parts of a program that store data is "data structures".
+general term for the description of the processing to eb caried out is an "algorithm".
+
+There are 2 types of data structure:
+
+1. Consant - If thw value cannot or should not change within the program e.g.GST Rate.
+2. 
+
+Variables 
+In python variables do not have specified "type
